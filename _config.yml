@@ -1,7 +1,7 @@
-title: Victor's First Blog
+title: Victor's Blog
 theme: minima
 plugins:
   - jekyll-feed
 
-url: "https://hissho1.github.io"
-baseurl: "/vz"
+url: "https://www.victorzhang.net"
+baseurl: ""
