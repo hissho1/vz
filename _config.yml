@@ -5,3 +5,8 @@ plugins:
 
 url: "https://www.victorzhang.net"
 baseurl: ""
+
+show_excerpts: false
+
+minima:
+  social_links: {}
